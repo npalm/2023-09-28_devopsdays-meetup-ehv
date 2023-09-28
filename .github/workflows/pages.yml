@@ -2,6 +2,10 @@ name: Pages Build and Deploy
 on:
   push:
     branches: [main]
+    paths: 
+      - 'assets/**'
+      - 'slides.md'
+      - '.github/workflows/pages.yml'
   pull_request:
   workflow_dispatch:
 
