@@ -210,7 +210,7 @@ _backgroundColor: #8345BA
 _color: #3D0F58
 -->
 
-# Deployment
+# <!-- fit --> 🚀 Deploy to the cloud
 
 
 Trust
@@ -273,6 +273,21 @@ _color: yellow
 
 * No strict claim checks
 * Unintended access to workflows
+
+
+---
+<!--
+_backgroundColor: purple
+_color: white
+-->
+
+# <!-- fit --> 🎬 Where do I start? 
+
+![bg right](assets/start.jpeg)
+
+
+* [GitHub](https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/about-security-hardening-with-openid-connect): supports AWS, Azure, GPC, HashiCorp Vault, PyPI
+* [GitLab](https://docs.gitlab.com/ee/ci/cloud_services/): supports AWS, Azure, GPC, HashiCorp Vault
 
 
 ---
