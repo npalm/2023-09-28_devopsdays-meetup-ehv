@@ -1,7 +1,7 @@
 name: Pages Build and Deploy
 on:
   push:
-    branches: [main, niek/monday]
+    branches: [main]
   pull_request:
   workflow_dispatch:
 
